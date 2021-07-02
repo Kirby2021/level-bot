@@ -4,8 +4,10 @@
 ## Support Me!
 1. Join my server [here](https://discord.gg/DXyczwxQYf)
 <br>
+
 ![Star](https://i.imgur.com/41nhvJ1.png)
 ![Fork](https://i.imgur.com/MOtHDPV.png)
+
 <br>
 
 ## Requirements
@@ -73,6 +75,15 @@ You need to rename `config.json.example` file to `config.json` and after you don
 `-rlevel remove [ level ]`
 * Show role level
 `-rlevel show`
+
+## Support
+
+For support, join our [Discord Server](https://discord.gg/DXyczwxQYf).
+
+  
+## Authors
+
+- [@pritulx.](https://www.github.com/pritulx)
 
 
 ## Contributing
