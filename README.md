@@ -4,12 +4,8 @@
 ## Support Me!
 1. Join my server [here](https://discord.gg/DXyczwxQYf)
 <br>
-
-### Support Us Please
-
 ![Star](https://i.imgur.com/41nhvJ1.png)
 ![Fork](https://i.imgur.com/MOtHDPV.png)
-
 <br>
 
 ## Requirements
